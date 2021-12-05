@@ -1,0 +1,11 @@
+name: gematria
+description: Converts a numerical value to a string of Hebrew letters.
+version: 1.0.0
+homepage: https://github.com/radxene/gematria_dart
+
+environment:
+  sdk: '>=2.12.0 <3.0.0'
+
+dev_dependencies:
+  lints: ^1.0.0
+  test: ^1.16.0
