@@ -47,9 +47,3 @@ main() {
   print(output);
 }
 ```
-
-### Thanks for support
-
-<a target="_blank" href="http://buymeacoffee.com/radxene">
-  <img src="https://raw.github.com/radxene/gematria_dart/main/assets/coffee-logo.svg" />
-</a>
